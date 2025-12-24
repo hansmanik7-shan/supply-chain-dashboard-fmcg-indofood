@@ -21,3 +21,4 @@ This project presents a Power BI dashboard for analyzing supply chain performanc
 
 ## Author
 Hans Twin Immanuel Manik
+Engineering Management Student
